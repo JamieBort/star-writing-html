@@ -8,11 +8,11 @@ At the end of this assignment, you should have three pages linked together by na
 
 ## Getting Started
 
-Read the enclosed README.md file for more details.
+Read the enclosed `README.md` file for more details.
 
 This activity includes starter files for the three HTML pages, index.html, characters.html, and season_one.html. Download the following source folder and unpack it. In the unzipped folder, you will find the starter files and assets.
 
-This project does not include solution files.
+This project **_does not_** include solution files.
 
 ## Turning in This Assignment
 Save the HTML files for this project in a local repo called "star-writing-html". Track your changes and commit often. Once you've completed the code and are ready to turn in this assignment, push your local repo up to a Github repo called "star-writing-html" and turn in a link to the Github content.
